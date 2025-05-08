@@ -1,0 +1,12 @@
+langchain
+langchain-community
+langgraph
+langchain-huggingface
+langchain-groq
+chromadb
+dotenv
+pypdf
+langchain-chroma
+langchain-google-genai
+pdf2image
+grandalf
